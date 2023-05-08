@@ -11,8 +11,6 @@ You need to have Python 3 installed on your system. You can download Python from
 - Run `pyinstaller --clean --onefile RapidPass.py`
 
 **Standalone executable**
-This repository comes with a standalone executable for Windows in `dist/RapidPass.exe`.
-
 To use the executable, add the directory containing the executable to your system's environment variables:
 
 - Open the Start menu and search for "Environment Variables."
